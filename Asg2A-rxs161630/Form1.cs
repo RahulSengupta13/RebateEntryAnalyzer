@@ -22,9 +22,9 @@
  |                      "Rebate Entry Analyzed - Date and Time of Analysis.txt"
  |                  to prevent overwriting analysis of different versions of input record file.
  |
- |    Algorithm:  -
- |   Known Bugs:  -
- |   Required Features Not Included:  -
+ |    Algorithm:  Nil
+ |   Known Bugs:  Nil
+ |   Required Features Not Included:  Nil
  |
  ==============================================================================================*/
 using System;
